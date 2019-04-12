@@ -1,0 +1,60 @@
+.head-bar {
+  background: rgb(243, 235, 236);
+  border-bottom: 1px solid gray;
+  height: 155px;
+  width: 100%;
+}
+h2 {
+  color:#0366d6;
+}
+
+.head-slash{
+  margin-left: 4px;
+  margin-right: 4px;
+}
+
+.head-1 {
+  font-weight: 400;
+}
+
+.head-bar h5 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-top: 4px solid orange;
+    border-left: 1px solid gray;
+    border-right: 1px solid gray;
+    width: 100px;
+    height: 50px;
+    margin-left: 100px;
+    background: white;
+}
+
+.head-state {
+  margin-left: 4px;
+  background: gray;
+}
+
+/* .head-bar span {
+    text-align: center;
+    width: 5px;
+    height: 5px;
+    margin-right: 10px;
+    border: 1px solid black;
+    padding: 5px;
+    border-radius: 10px;
+} */
+
+
+.title-box {
+  display: flex;
+}
+
+.title-box img {
+  width: 150px;
+  height: 80px;
+}
+
+.title-box h2 {
+  align-self: center;
+}
